@@ -19,8 +19,8 @@
             "pins": [
               {
                 "index": "0",
-                "name": "D0",
-                "value": "2"
+                "name": "D12",
+                "value": "63"
               }
             ],
             "virtual": false
@@ -136,8 +136,8 @@
             "pins": [
               {
                 "index": "0",
-                "name": "D8",
-                "value": "20"
+                "name": "DD3",
+                "value": "117"
               }
             ],
             "virtual": false,
@@ -156,8 +156,8 @@
             "pins": [
               {
                 "index": "0",
-                "name": "D6",
-                "value": "10"
+                "name": "D11",
+                "value": "21"
               }
             ],
             "virtual": false
@@ -2532,6 +2532,10 @@
             {
               "x": 1040,
               "y": 4280
+            },
+            {
+              "x": 1096,
+              "y": 4672
             }
           ]
         },
