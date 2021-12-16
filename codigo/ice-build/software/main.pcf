@@ -4,6 +4,12 @@ set_io v1e49f0 2
 set_io v86c0ae 119
 set_io v32ad9b 3
 set_io v66b8d3 7
+set_io v49e008 118
+set_io vacba4d 4
+set_io v308b59 20
+set_io va6efd8 10
+set_io v5d0570 116
+set_io vb8e6e0 115
 set_io vclk 49
 set_io vinit[0] 45
 set_io vinit[1] 44
