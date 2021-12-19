@@ -1,4 +1,4 @@
-# Mecatronica-Proyecto
+# Romar
 Repositorio para el proyecto de la asignatura de Mecatrónica
 
 * Irene Bandera Moreno
