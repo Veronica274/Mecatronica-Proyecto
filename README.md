@@ -14,7 +14,7 @@ Pero, y la sílaba **mar**? Veréis, nostras somos dos chicas que están a punto
 
 **Hedy Lamarr**, actriz de cine e inventora austriaca que inventó la primera versión del espectro ensanchado que permitiría las comunicaciones inalámbricas de largas distancias, además de saber que los principios de su trabajo se unieron a la tecnología Bluetooth y son similares a los métodos utilizados en las versiones heredadas de Wi-Fi.
 
-Nos fascinó, por lo que en su honor, y en honor a todas a las muejeres ingenieras, decidimos integrar de una forma u otra su apellido al nombre del robot. Muchas gracias.
+Nos fascinó, por lo que en su honor, y en honor a todas a las muejeres ingenieras, decidimos integrar su apellido al nombre del robot. Muchas gracias.
 
 ## Explicación del proyecto
 
